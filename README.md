@@ -12,6 +12,10 @@ Contributions are always welcome!
 - [x] Simple: [What happens when you type in ‘www.cnn.com’ in your browser?](https://syedali.net/2013/08/18/what-happens-when-you-type-in-www-cnn-com-in-your-browser)
 - [x] Detailed: [What happens when you type google.com into your browser's address box and press enter?](https://github.com/alex/what-happens-when)
 
+## GIT flow, TBD, GitLab Flow, GitHub flow. 
+- [x] [What Are the Best Git Branching Strategies]([https://syedali.net/2013/08/18/what-happens-when-you-type-in-www-cnn-com-in-your-browser](https://www.abtasty.com/blog/git-branching-strategies/))
+- [x] [Почему Trunk Based Development – лучшая модель ветвления. Андрей Александров]([https://github.com/alex/what-happens-when](https://habr.com/ru/articles/519314/))
+
 ## Linux
 
 - [ ] [What every SRE should know about GNU/Linux shell related internals: file descriptors, pipes, terminals, user sessions, process groups and daemons](https://biriukov.dev/docs/fd-pipe-session-terminal/0-sre-should-know-about-gnu-linux-shell-related-internals-file-descriptors-pipes-terminals-user-sessions-process-groups-and-daemons)
