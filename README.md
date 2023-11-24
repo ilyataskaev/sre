@@ -11,6 +11,7 @@ Contributions are always welcome!
 
 - [x] Simple: [What happens when you type in ‘www.cnn.com’ in your browser?](https://syedali.net/2013/08/18/what-happens-when-you-type-in-www-cnn-com-in-your-browser)
 - [x] Detailed: [What happens when you type google.com into your browser's address box and press enter?](https://github.com/alex/what-happens-when)
+- [x] [System Design 101](https://habr.com/ru/articles/770564/)
 
 ## GIT flow, TBD, GitLab Flow, GitHub flow. 
 - [x] [What Are the Best Git Branching Strategies](https://www.abtasty.com/blog/git-branching-strategies/)
